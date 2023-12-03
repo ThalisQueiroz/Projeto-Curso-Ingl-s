@@ -27,7 +27,7 @@ armazenados e salvos para caso queira consultar, alterar ou excluir. Caso
 ocorra um conflito de dados, o código atenderá com a mensagem de erro para
 reescrever novamente os dados corretamente.
 
-Cruds dos Professores: Nos cruds dos professores é basicamente igual ao dos
+Cruds dos Professores: No crud dos professores é basicamente igual ao dos
 alunos. Porém algumas informações são diferentes como “ID” que no caso dos alunos
 é matrícula. Contendo com os mesmos conteúdos como: Inserir, Consultar, Alterar e
 Excluir. 
