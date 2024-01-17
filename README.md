@@ -1,4 +1,4 @@
-# Projeto_Curso_Ingl-s
+# Projeto-Curso-Ingl-s
 Neste projeto tive a ideia de construir um código na
 linguagem Python em conjunto com o banco de dados (MySQL) em que
 podemos reunir informações e armazenar necessárias para os Cruds no
