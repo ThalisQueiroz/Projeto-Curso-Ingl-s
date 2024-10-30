@@ -1,4 +1,4 @@
-# Projeto-Curso-Ingl-s
+# Projeto para armazenamento de informações
 
 Neste projeto tive a ideia de construir um código na
 linguagem Python em conjunto com o banco de dados (MySQL) em que
